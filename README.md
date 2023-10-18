@@ -4,15 +4,15 @@
 
 **Project Overview**
 
-Waze, the popular navigation app, strives to enhance the driving experience for users worldwide. As part of Waze's ongoing commitment to improving user satisfaction, you will collaborate with a team to address the issue of user churn, which quantifies the number of users who uninstall or stop using the app. This project focuses on monthly user churn prediction, aiming to develop a machine learning model that accurately predicts when users are likely to churn.
+Waze, the popular navigation app, strives to enhance the driving experience for users worldwide. As part of Waze's ongoing commitment to improving user satisfaction, we will collaborate with a team to address the issue of user churn, which quantifies the number of users who uninstall or stop using the app. This project focuses on monthly user churn prediction, aiming to develop a machine learning model that accurately predicts when users are likely to churn.
 
 **Task**
 
-Data collection and preprocessing of user data.
-Exploratory data analysis to understand the dataset.
-Developing a churn prediction model using machine learning.
-Model evaluation using metrics such as accuracy, precision, recall, and F1-score.
-Identifying specific factors contributing to churn and answering key questions:
+***Data collection*** and preprocessing of user data.
+***Exploratory data analysis*** to understand the dataset.
+Developing a ***churn prediction model using machine learning.***
+Model evaluation using metrics such as ***accuracy, precision, recall, and F1-score.***
+Identifying ***specific factors contributing to churn*** and answering key questions:
 Who are the users most likely to churn?
 Why do users churn?
 When do users churn?
