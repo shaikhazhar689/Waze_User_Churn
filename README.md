@@ -31,17 +31,17 @@ pickle
 
 **Approach**
 
-Data preprocessing, including handling missing values and feature engineering.
+Data preprocessing, including handling ***missing values*** and feature engineering.
 
-Exploratory data analysis to gain insights into user behavior.
+***Exploratory data analysis*** to gain insights into user behavior.
 
-Splitting the data into training and testing sets.
+Splitting the data into ***training*** and ***testing sets***.
 
-Model development, using both RandomForest and XGBoost classifiers.
+Model development, using both ***RandomForest*** and ***XGBoost classifiers***.
 
 Model evaluation, considering metrics like accuracy, precision, recall, and F1-score.
 
-Fine-tuning hyperparameters using GridSearchCV.
+Fine-tuning hyperparameters using ***GridSearchCV***.
 
 Generating insights to optimize user retention strategies, enhance the user experience, and support data-driven decisions.
 
